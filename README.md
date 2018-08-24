@@ -29,3 +29,4 @@ https://twitter.com/parente/status/1032708446481784832
 
 * Build an Apache Hive browser panel extension for JupyterLab that lets users drill-down to see see available databases, tables, and columns. Maybe make it generic to support any relational datastore, not just Hive. ([@parente](https://twitter.com/parente))
 * Create a linter for notebook files. Accordingly, define a PEP-8 equivalent for notebooks. ([@betatim](https://twitter.com/betatim))
+* Create a binder-bot that identifies popular notebook repositories on GitHub that are not Binder enabled, divines their requirements, and submits best-effort pull requests to Binder enable them. Needs careful design to balance convenience and annoyance. (@parente)
