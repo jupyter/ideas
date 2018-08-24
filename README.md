@@ -6,14 +6,18 @@ Follow the steps below to share or update an idea here!
 
 ## Instructions
 
-1. Click the README.md file in this repository.
+1. Click the [README.md](README.md) file in this repository.
 2. Click the pencil icon in the top right of the file view.
 3. Scroll to *The Idea List*.
 4. To post a new idea, add a bullet (\*) followed by one to two brief sentences describing the idea and (optionally) your contact information (e.g., if you're planning to work on the idea and would like people with the same interest to reach out).
 5. To show that an idea is being worked on somewhere, add a link to the existing idea bullet.
 6. To remove ideas no longer worth listing, delete the bullet.
+7. Click the *Preview* tab to double-check your formatting.
+8. Under *Propose file change*, add a brief summary of what you did to the list (e.g., *Removed antiquated jupyter stone tablet notebook idea*).
+9. Click the *Propose file change* button.
+10. As long as your change is on-topic and follows the [Jupyter Code of Conduct](https://github.com/jupyter/governance/blob/master/conduct/code_of_conduct.md), someone will merge your change.
 
-## Public Domain
+## Copyright
 
 ![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)
 
