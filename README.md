@@ -1,4 +1,4 @@
-# jupyter/ideas
+# 💡 jupyter/ideas 💡
 
 Do you have an idea for a new Jupyter project? Are you looking to connect with other community members who might have a similar interest and want to collaborate? Do you have time to share your thoughts but not necessarily bring them to fruition at the moment? Would you like to offer fodder for people to work on during a community sprint?
 
