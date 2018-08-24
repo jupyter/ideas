@@ -19,9 +19,7 @@ Follow the steps below to share or update an idea here!
 
 ## Copyright
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-By posting your idea here, you agree to waive all copyright and related or neighboring rights to the extent possible under law.
+[![CC0](https://licensebuttons.net/p/zero/1.0/80x15.png)](https://creativecommons.org/publicdomain/zero/1.0/) By posting your idea here, you agree to waive all copyright and related or neighboring rights to the extent possible under law.
 
 ## Origin
 
